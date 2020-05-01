@@ -1,0 +1,44 @@
+<html>
+  <head> 
+    <title>
+      html lists
+    </title>
+  </head>
+  <body>
+    <h1> This is the description of lists </h1>
+    <h2> unordered lists </h2>
+     
+    <ul>
+      <li>Ishita</li>
+      <li>Rajat</li>
+    </ul>
+    
+    <h2> ordered lists </h2>
+   
+    <ol>
+      <li>Ishita</li>
+      <li>Rajat</li>
+    </ol>
+ 
+    <h2> decription lists </h2>
+  
+    <dl>
+      <dt> Ishita and Rajat </dt>
+      <dd> Forever </dd>
+    </dl>
+
+    <h2> Nested lists </h2>
+ 
+    <ul>
+     <li> coffee </li>
+         <ol>
+            <li> black coffee </li>
+            <li> simple coffee </li>
+         </ol>
+         <dl>
+            <dt> Tea </dt>
+            <dd> relieves stress </dd>
+         </dl>
+   </ul>
+
+</html>
