@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <title> html images </title>
+  </head>
+ 
+  <body style="background-image:url('images/one.jpg')">
+  <h1> this decription is about images</h1>
+  <img src = "images/one.jpg" alt = "image" style="float:left" width"50%" height"50%">
+  </body>
+</html>
+
