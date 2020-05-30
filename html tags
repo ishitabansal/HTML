@@ -1,11 +1,11 @@
 <html>
- <head>
-  <title> 
-    html tags
-  </title>
- </head>
- <body>
- </body>
+  <head>
+   <title> 
+     html tags
+   </title>
+  </head>
+  <body>
+  </body>
  <hr>hello <b>world</b>. This is <i> ishita bansal </i>. <u> i am learning web development</u>
  x<sup>2
  x<sub>2
