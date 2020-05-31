@@ -1,10 +1,10 @@
 <html>
-  <head> 
-    <title>
-      html lists
-    </title>
-  </head>
-  <body>
+   <head> 
+     <title>
+       html lists
+     </title>
+   </head>
+   <body>
     <h1> This is the description of lists </h1>
     <h2> unordered lists </h2>
      
@@ -39,6 +39,6 @@
             <dt> Tea </dt>
             <dd> relieves stress </dd>
          </dl>
-   </ul>
-
+    </ul>
+  </body>
 </html>
