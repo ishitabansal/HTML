@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title>
+      html-entities-iframe
+    </title>
+  </head>
+  <body>
+    <p><h1>This is all about entities &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; iframe</h1></p><br><br>
+   
+     <iframe src="https://www.technoguruamit.com" width="30%" height="30%"></iframe><br>
+     <iframe src="forms.html" width="40%" eight="40%"></iframe><br>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/nlVSnUplgo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     
+  </body>
+</html>
+  
