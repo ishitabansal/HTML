@@ -1,14 +1,14 @@
 <html>
   <head>
-   <title> 
-     html tags
-   </title>
+    <title> 
+      html tags
+    </title>
   </head>
   <body>
   </body>
- <hr>hello <b>world</b>. This is <i> ishita bansal </i>. <u> i am learning web development</u>
- x<sup>2
- x<sub>2
+ <hr>hello <b>world</b>. This is <i> ishita bansal </i>. <u> i am learning web development</u>    //b is used to bold the letters
+ x<sup>2                                                                                         //i is used to write italic words
+ x<sub>2                                                                                         //u is used to underline the words
  hello <del> friends </del>
  <mark> <small> good </small> bye </mark>
  <pre>int x,y;
