@@ -4,12 +4,12 @@
         html tags
      </title>
    </head>
-   <body>
-    <h1> this is my first heading. </h1>
-    <h2> this is my second heading. </h2>
-    <h3> this is my third heading. </h3>
-    <h4> this is my fourth heading. </h4>
-    <h5> this is my fifth heading. </h5>
-    <h6> this is my sixth heading. </h6>
+   <body>                                    
+     <h1> this is my first heading. </h1>           //h1 is given more preference than h2 and other
+     <h2> this is my second heading. </h2>          //h2 is given more preference than h3 and other
+     <h3> this is my third heading. </h3>           //h3 is given more preference than h4 and other
+     <h4> this is my fourth heading. </h4>          //h4 is given more preference than h5 and other
+     <h5> this is my fifth heading. </h5>           //h5 is given more preference than h6
+     <h6> this is my sixth heading. </h6>           //h6 is given least preference
     </body>
 </html>
